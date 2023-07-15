@@ -17,4 +17,5 @@ To use Git, developers use specific commands to copy, create, change, and combin
 8.git pull updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
 
 9.git push updates the remote repository with any commits made locally to a branch.
+
 10.using branch function to create the branch and edit the existing file
